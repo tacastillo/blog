@@ -1,3 +1,56 @@
 baseURL = "http://tacastillo.github.io/blog/"
 languageCode = "en-us"
-title = "Tim's Data Science Blog"
+title = "Tim & Data Science"
+theme = "hugo-ink"
+publishDir = "docs"
+
+
+[params]
+	subtitle = "A blog from a software-engineer-turned-data-scientist"
+
+	# Optional 64x64 avatar image.
+	avatar = "https://media-exp1.licdn.com/dms/image/C5603AQHDRRm7nd9HwA/profile-displayphoto-shrink_200_200/0/1609626798531?e=1615420800&v=beta&t=4Ck1bHpFjTbW2aceiBJLzb6u3WxLVfgYgTap4wKe6dI"
+
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+	
+	featherIconsCDN = true
+
+	mode = "auto" # "dark" or "auto"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/tacastillo/"
+
+[[params.social]]
+name = "RSS"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/tacastillo"
+
+[taxonomies]
+   tag = "tags"
