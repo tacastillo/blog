@@ -4,6 +4,7 @@ title = "Tim & Data Science"
 theme = "hugo-ink"
 publishDir = "docs"
 
+googleAnalytics = "UA-107354179-1"
 
 [params]
 	subtitle = "A blog from a software-engineer-turned-data-scientist"
