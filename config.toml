@@ -1,4 +1,4 @@
-baseURL = "http://tacastillo.github.io/blog/"
+baseURL = "https://tacastillo.github.io/blog/"
 languageCode = "en-us"
 title = "Tim & Data Science"
 theme = "hugo-ink"
