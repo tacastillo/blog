@@ -5,6 +5,16 @@
     <link>https://tacastillo.github.io/blog/tags/</link>
     <description>Recent content in Tags on Tim &amp; Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tacastillo.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jan 2021 23:18:33 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>66DaysOfData</title>
+      <link>https://tacastillo.github.io/blog/tags/66daysofdata/</link>
+      <pubDate>Sun, 03 Jan 2021 23:18:33 -0800</pubDate>
+      
+      <guid>https://tacastillo.github.io/blog/tags/66daysofdata/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

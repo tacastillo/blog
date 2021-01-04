@@ -1,6 +1,7 @@
 ---
 title: "#66 Days of Data - Day 0"
 date: 2021-01-03T23:18:33-08:00
+tags: [66DaysOfData]
 ---
 
 Today was a light day. I did a bunch of reading for grad school. For context, while working I'm pursuing a Master's in Health Data Science from the University of Denver. One of the huge perks that I'm finding consistently throughout the program is that not only am I learn a lot about data science, but also everything ties in to healthcare in some way.

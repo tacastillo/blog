@@ -1,6 +1,7 @@
 ---
 title: "#66 Days of Data - Day -1"
 date: 2021-01-02T22:26:38-08:00
+tags: [66DaysOfData]
 ---
 
 *Yes, that's intentially a -1*.
