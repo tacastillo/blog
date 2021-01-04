@@ -1,5 +1,5 @@
 ---
-title: "Day 0"
+title: "#66 Days of Data - Day 0"
 date: 2021-01-03T23:18:33-08:00
 ---
 
