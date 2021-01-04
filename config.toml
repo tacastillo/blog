@@ -43,6 +43,11 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
+[[menu.main]]
+name = "Notes"
+url = "https://tims-notes.netlify.app"
+weight = 5
+
 [[params.social]]
 name = "Github"
 icon = "github"
