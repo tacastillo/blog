@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Tim &amp; Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 23:18:33 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 20:51:12 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 1</title>
+      <link>https://tacastillo.github.io/blog/posts/day-1/</link>
+      <pubDate>Mon, 04 Jan 2021 20:51:12 -0800</pubDate>
+      
+      <guid>https://tacastillo.github.io/blog/posts/day-1/</guid>
+      <description>Today was also a light day. I was primarily focused on work, so therefore I didn&amp;rsquo;t get to do much studying. I reviewed some SQL interview questions as that&amp;rsquo;s probably one of my weaker points.
+I was supposed to have an interview on this interviewing platform called Pramp, but I didn&amp;rsquo;t get paired up with anyone today.
+Has anyone heard of the platform called SharpestMinds? It&amp;rsquo;s a website that pairs you up with coaches and mentors in data science.</description>
+    </item>
+    
     <item>
       <title>#66 Days of Data - Day 0</title>
       <link>https://tacastillo.github.io/blog/posts/day-0/</link>
