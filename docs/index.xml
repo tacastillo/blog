@@ -6,7 +6,17 @@
     <description>Recent content on Tim &amp; Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 20:51:12 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 22:14:37 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 2</title>
+      <link>https://tacastillo.github.io/blog/posts/day-2/</link>
+      <pubDate>Tue, 05 Jan 2021 22:14:37 -0800</pubDate>
+      
+      <guid>https://tacastillo.github.io/blog/posts/day-2/</guid>
+      <description>I&amp;rsquo;ve been putting in extra time into work the past couple days and it&amp;rsquo;s starting to show in how I haven&amp;rsquo;t been able to study and put in time into my projects.
+I did 3 SQL Leetcode questions. I&amp;rsquo;m trying to get more comfortable working on SQL questions as I know that&amp;rsquo;s one of my weaker points. My goal is to be able to pull away and learn one thing from every Leetcode question that I attempt.</description>
+    </item>
+    
     <item>
       <title>Day 1</title>
       <link>https://tacastillo.github.io/blog/posts/day-1/</link>
