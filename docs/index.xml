@@ -6,7 +6,17 @@
     <description>Recent content on Tim &amp; Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jan 2021 22:14:37 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jan 2021 21:44:56 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 3</title>
+      <link>https://tacastillo.github.io/blog/posts/day-3/</link>
+      <pubDate>Wed, 06 Jan 2021 21:44:56 -0800</pubDate>
+      
+      <guid>https://tacastillo.github.io/blog/posts/day-3/</guid>
+      <description>Today I had a phone screen with a recruiter today. It went well enough that they want me to talk to the hiring manager next week. So fingers crossed on that!
+I wanted to build something a little more visual today, so I spent half an hour using Plotly Dash to build out COVID-19 Vaccine Delivery Map. I posted it on LinkedIn with a screenshot, so hopefully it will catch some people&amp;rsquo;s attention.</description>
+    </item>
+    
     <item>
       <title>Day 2</title>
       <link>https://tacastillo.github.io/blog/posts/day-2/</link>
