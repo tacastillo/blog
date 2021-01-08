@@ -6,7 +6,18 @@
     <description>Recent content on Tim &amp; Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2021 21:44:56 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 22:48:12 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 4</title>
+      <link>https://tacastillo.github.io/blog/posts/day-4/</link>
+      <pubDate>Thu, 07 Jan 2021 22:48:12 -0800</pubDate>
+      
+      <guid>https://tacastillo.github.io/blog/posts/day-4/</guid>
+      <description>Today, I focused on getting some good ol&#39; SQL practice in. I solved 4 SQL problems, one of which was a LeetCode hard.
+My learnings from doing those problems were: when to use RANK() vs DENSE_RANK(), that JOINs accept expressions and not something fancy, so you can join on ANDs and ORs and inequalities.
+I&amp;rsquo;m also slowly figuring out my patterns. I think I&amp;rsquo;m going to take a break tomorrow and focus on meta-learning and getting my processes in place for how to approach things.</description>
+    </item>
+    
     <item>
       <title>Day 3</title>
       <link>https://tacastillo.github.io/blog/posts/day-3/</link>
