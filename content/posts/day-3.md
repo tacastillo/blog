@@ -1,5 +1,5 @@
 ---
-title: "Day 3"
+title: "#66 Days of Data - Day 3"
 date: 2021-01-06T21:44:56-08:00
 ---
 

@@ -6,9 +6,23 @@
     <description>Recent content in Posts on Tim &amp; Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 22:48:12 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jan 2021 20:45:22 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Day 4</title>
+      <title>#66 Days of Data - Day 5</title>
+      <link>https://tacastillo.github.io/blog/posts/day-5/</link>
+      <pubDate>Fri, 08 Jan 2021 20:45:22 -0800</pubDate>
+      
+      <guid>https://tacastillo.github.io/blog/posts/day-5/</guid>
+      <description>Sometimes it is necessary to take a step back and look at the bigger picture.
+Therefore, I focused on meta-learning and thinking about how I want to process problems.
+For the next few days, I want to focus on figuring out how to build a mental framework for answering interview questions.
+The focus for today was on tackling SQL questions.
+Here is my 7-step guide/framework to approaching SQL questions:
+ Establish the assumptions Define the output, if not provided Define the intermediate data structure Work backwards from the beginning Make a CTE with the intermediate data structure If it requires a second intermediate data structure, make it Go from the beginning and meet it in the middle  </description>
+    </item>
+    
+    <item>
+      <title>#66 Days of Data - Day 4</title>
       <link>https://tacastillo.github.io/blog/posts/day-4/</link>
       <pubDate>Thu, 07 Jan 2021 22:48:12 -0800</pubDate>
       
@@ -19,7 +33,7 @@ I&amp;rsquo;m also slowly figuring out my patterns. I think I&amp;rsquo;m going 
     </item>
     
     <item>
-      <title>Day 3</title>
+      <title>#66 Days of Data - Day 3</title>
       <link>https://tacastillo.github.io/blog/posts/day-3/</link>
       <pubDate>Wed, 06 Jan 2021 21:44:56 -0800</pubDate>
       
@@ -29,7 +43,7 @@ I wanted to build something a little more visual today, so I spent half an hour 
     </item>
     
     <item>
-      <title>Day 2</title>
+      <title>#66 Days of Data - Day 2</title>
       <link>https://tacastillo.github.io/blog/posts/day-2/</link>
       <pubDate>Tue, 05 Jan 2021 22:14:37 -0800</pubDate>
       
@@ -39,7 +53,7 @@ I did 3 SQL Leetcode questions. I&amp;rsquo;m trying to get more comfortable wor
     </item>
     
     <item>
-      <title>Day 1</title>
+      <title>#66 Days of Data - Day 1</title>
       <link>https://tacastillo.github.io/blog/posts/day-1/</link>
       <pubDate>Mon, 04 Jan 2021 20:51:12 -0800</pubDate>
       
