@@ -6,7 +6,19 @@
     <description>Recent content on Tim &amp; Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jan 2021 20:45:22 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 20:23:05 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#66 Days of Data - Days 6 &amp; 7</title>
+      <link>https://tacastillo.github.io/blog/posts/day-7/</link>
+      <pubDate>Sun, 10 Jan 2021 20:23:05 -0800</pubDate>
+      
+      <guid>https://tacastillo.github.io/blog/posts/day-7/</guid>
+      <description>Hi folks!
+I didn&amp;rsquo;t get to do anything yesterday, so I tried making up for it today.
+Today, I finished up a project that I was working on for grad school. The course is on Health Data Mining and the current module is all about what data mining is and how it fits within healthcare.
+I also tackled 4 SQL problems, with a flub on the 5th. Things I learned from solving the SQL problems:</description>
+    </item>
+    
     <item>
       <title>#66 Days of Data - Day 5</title>
       <link>https://tacastillo.github.io/blog/posts/day-5/</link>
