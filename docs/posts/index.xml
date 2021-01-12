@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Tim &amp; Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 20:23:05 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 19:39:06 -0800</lastBuildDate><atom:link href="https://tacastillo.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#66 Days of Data - Day 8</title>
+      <link>https://tacastillo.github.io/blog/posts/day-8/</link>
+      <pubDate>Mon, 11 Jan 2021 19:39:06 -0800</pubDate>
+      
+      <guid>https://tacastillo.github.io/blog/posts/day-8/</guid>
+      <description>Today was a hodgepodge of different things to practice.
+I had an interview with a hiring manager today. I think it generally went well. I did well explaining my technical projects and such, but struggled to talk about &amp;ldquo;Why I Want to Work Here&amp;rdquo; and &amp;ldquo;What Culture Are You Looking For&amp;rdquo; questions.
+I read up on A/B tests, metrics to evaluate by, different patterns and effects common in A/B tests and how to conduct and assess them statistically, which is always fun.</description>
+    </item>
+    
     <item>
       <title>#66 Days of Data - Days 6 &amp; 7</title>
       <link>https://tacastillo.github.io/blog/posts/day-7/</link>
